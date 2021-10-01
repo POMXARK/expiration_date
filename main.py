@@ -15,3 +15,5 @@ def expiration_date(number_of_hours):
 
 print(expiration_date(36))
 print(expiration_date(72))
+print(expiration_date(140))
+print(expiration_date(120))
